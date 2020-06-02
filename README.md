@@ -28,6 +28,7 @@ ____
 	* Technology: ReactJS 16, Angular 1.5, Preact, VueJS
 	* Compliment Libs: Redux, RR 4, RxJS, Relay, MobX
 	* Techniques: Advanced HOCs, hooks and contexts, modular components, efficient lifecycles.
+	* Fun: Play a small game I wrote in pure JS/html: https://geart891.github.io/resume/snakes-game.html.
 
 * **BACKEND SKILLS**
 	* Language: NodeJS, Golang, Python
